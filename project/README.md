@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-#### Video Demo: [https://youtu.be/YOUR_VIDEO_LINK_HERE](https://youtu.be/6GV6Qanh8y8)
+#### Video Demo: (https://youtu.be/6GV6Qanh8y8)
 
 #### Description:
 
